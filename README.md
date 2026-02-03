@@ -24,4 +24,5 @@ Fine tune sentence transformers, improve Neutral class detection, and aggregate 
 
 ## Quick links
 - Notebook: [Open](notebooks/stock_sentiment_analysis.ipynb)
-- Slides: [Open](slides/Stock_Market_Sentiment_Analysis.pdf)
+- Slides: [Open](Presentation Project_1_Stock Market Sentiment Analysis.pdf)
+
