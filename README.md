@@ -23,8 +23,9 @@ Can be used as an early warning or contextual risk signal to augment analyst jud
 Fine tune sentence transformers, improve Neutral class detection, and aggregate sentiment signals to reduce noise.
 
 ## Quick links
-- Notebook: [Open](Notebook%20Stock_Market_News_Sentiment_Analysis.ipynb)
+- Notebook: [Open](Stock_Market_News_Sentiment_Analysis%20(3).ipynb)
 - Slides: [Open](Presentation%20Project_1_Stock%20Market%20Sentiment%20Analysis.pdf)
+
 
 
 
